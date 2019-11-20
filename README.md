@@ -13,7 +13,7 @@ Undergraduate Computer Engineering student of University of Indonesia
 
 ## Implementation :
 
-Run [this link](https://drive.google.com/file/d/1XfGxQFvpRSYnss8Zhp4innszDsiJl5fX/view?usp=sharing) to run the implementation in Google Colab.
+Run [this link](https://colab.research.google.com/drive/18oQ6INx5rmnwU1x5d5O4yYfLGjZyhq0n#scrollTo=2ahq_f0SOiX6) to run the implementation in Google Colab.
   
 ## Analysis
 
@@ -23,5 +23,5 @@ From that formula, we get 1.6% error percentage. It shows that this method works
 
 ## More Information : 
 
-For more information about this game, you can open [this presentation.](https://drive.google.com/file/d/1y1Id-AWaMF6Kfc4CScse-U9bI9_n1Nzf/view?usp=sharing).
+For more information about this game, you can open [this presentation.](https://drive.google.com/file/d/1y1Id-AWaMF6Kfc4CScse-U9bI9_n1Nzf/view?usp=sharing)
 
