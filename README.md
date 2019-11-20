@@ -25,5 +25,5 @@ From that formula, we get 1.6% error percentage. It shows that this method works
 
 ## More Information : 
 
-For more information about this game, you can open [this presentation.](https://drive.google.com/file/d/1y1Id-AWaMF6Kfc4CScse-U9bI9_n1Nzf/view?usp=sharing)
+For more information about this implementation, you can open [this presentation.](https://drive.google.com/file/d/1y1Id-AWaMF6Kfc4CScse-U9bI9_n1Nzf/view?usp=sharing)
 
